@@ -1,4 +1,4 @@
-# JUnit Testing for BrowserPage Class - CMPE 313 Homework #3
+# JUnit Testing for BrowserPage Class
 
 Authors: Deniz Melih Öz & Muhammed Abdullah Yusuf
 
@@ -39,5 +39,7 @@ To run the JUnit tests and validate the functionality of the `BrowserPage` class
 3. Locate the JUnit test class, `TestMainJava`, and run it as a JUnit test.
 
 4. Observe the test results, including the assertions, to verify the correctness of the implemented functionality.
+
+---
 
 Feel free to explore and modify the code according to your needs and requirements.
