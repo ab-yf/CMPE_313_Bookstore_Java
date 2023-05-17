@@ -41,11 +41,4 @@ To run the JUnit tests and validate the functionality of the `BrowserPage` class
 4. Observe the test results, including the assertions, to verify the correctness of the implemented functionality.
 
 Feel free to explore and modify the code according to your needs and requirements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 I hope you find this JUnit testing implementation for the BrowserPage class informative and helpful. If you have any questions or suggestions, please feel free to reach out. Happy testing!
